@@ -1,12 +1,12 @@
 # Site settings
-baseurl = "https://mrrudrud.github.io/mrrudrud/"
+baseurl = "https://mrrudrud.github.io/blog/"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
 title = "My Personal Website"
 theme = "cactus"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-118754978-1"
 # Disable comments by leaving disqusShortname empty
 disqusShortname = "mrrudrud"
 
@@ -49,7 +49,7 @@ disqusShortname = "mrrudrud"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/"
-    facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    # twitter  = "https://www.twitter.com/"
+    facebook = "https://www.facebook.com/mrrudrud"
+    github   = "https://github.com/MrRudRud"
+    # dribble  = "https://www.dribbble.com/"
