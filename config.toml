@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://mrrudrud.github.io/blog/"
+baseurl = "localhost:1313"
 themesDir = "themes"
 publishDir = "docs"
 languageCode = "en-us"
@@ -35,7 +35,7 @@ disqusShortname = "mrrudrud"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an blogger."
+	aboutAuthor = "I'm a fullstack developer enthusiast"
 	tweet = ""
 	share = ""
 	# 404 page
